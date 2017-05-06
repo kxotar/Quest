@@ -1,0 +1,22 @@
+{
+          "name": "quest",
+          "version": "1.0.0",
+          "description": "Search Engine with Elastic Search",
+          "main": "index.js",
+          "scripts": {
+                    "test": ""
+          },
+          "repository": {
+                    "type": "git",
+                    "url": ""
+          },
+          "keywords": [
+                    "Node.js",
+                    "elasticsearch"
+          ],
+          "author": "Rakesh Sharma",
+          "license": "ISC",
+          "dependencies": {
+                    "elasticsearch": "^11.0.1"
+          }
+}
